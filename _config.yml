@@ -46,3 +46,13 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+gems:
+  - jekyll-seo-tag
+
+title: "Rajesh Kathiriya's Blog"
+description : ""
+twitter:
+  username: rajpatel507
+
+
