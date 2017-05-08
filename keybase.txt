@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rajk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rajeshkathiriya.com
+  * I am rajk (https://keybase.io/rajk) on keybase.
+  * I have a public key with fingerprint 7F2C 6CFB 7813 CF41 6860  3413 9040 B840 A32B DDCE
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01012c5a7962f4545a99cdc0aa90b6bab69736274d1748a42318b473a2d83c1f74400a",
+            "fingerprint": "7f2c6cfb7813cf41686034139040b840a32bddce",
+            "host": "keybase.io",
+            "key_id": "9040b840a32bddce",
+            "kid": "01012c5a7962f4545a99cdc0aa90b6bab69736274d1748a42318b473a2d83c1f74400a",
+            "uid": "b4b51352683a6578d5b3e8d4c9de9c19",
+            "username": "rajk"
+        },
+        "service": {
+            "hostname": "rajeshkathiriya.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494239229,
+    "expire_in": 157680000,
+    "prev": "974732fe23cade485db918fa0f5bbd7c9a2512a59a477761a55045ca69e7fabb",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMIuAnicrVJdSBVBGL1mWdqfD/1AGdmaBia2szuzs3MrggosKxHr9kPpbWZ31rua
+d297V8ssKIKgLOqhMAp8KYkUqherh4x+fFEjNQKzwoprURFFkESU3Wal6KXH5mWY
+b8453zkfX+fU1EBGytvST5d6QUsgpefuudrAtsyi0QaJOWa9FGyQqvnYxXeZPO6F
+q21TCkoykIFiIIqJplgQQUQJMUxDppTITGOUaQSrmoKhCTDUKVRUoDOIVaqYumoA
+C0Moy1QqkCw7WsndmGtHPSGLLcXQDIthHaiGBYGma7IKgUpkKDMdylRVmGkaXBAj
+TtxnCHOMxnmh7YiaeITH7P0D/599147JMcgQUJGi6SrVENZNxFSum9AgJicGID4w
+zt0oreEC7dKqaulAgSQqdbYwJYbqp/j7y+ORaupFbNeup4WGUyPoMdfxHMPZJQAR
+z4vFg76AVx/zGXs4C//WCjM7aopRCkYdd+O2E5WCQCANz/bFASQiClEUUiDxvTHb
+5WHbRyCs6bI4fh9e5w8Oi7CKxRXVoCaHOjIZAbpFZQsxZmKDUAUBhSJCIcZYAxQh
+GSKDaoRjizIm+el2Rx0piIRNWikk43ZllHq1LpcO3LuzY3wgJSOQNmGcv2KBjPTM
+P4vXvnVicnPN0mX9B7/g3FONX6eF+kD+vJBZWZaNBu90dlwtGK2yyXE1OWc4LzR8
+5lbZ4i1ztdLwlLLuJT+uVaxYd/NVcWj7lpF9aGcOSubklSdy+0bWn6iftaJ8/KKV
+kaErq7JKcxILms43DrrZ199syG94cVSSjxwaKTo2YeD62YNHlp9sKHk5nJa+qe3w
+7NanPzIyS953DN1rnvsh1FVX1BgKzx9O35DXm0ADNzKfV3Sv7oltOt1VVdOS/rEw
+MTKpNC9r9Gd4rbrmXWqqPhjYn/w+M1bYf/nCrIEmOX/G0JONkx/1LdRf334872Ey
+drFs2sr2dQ9ai4OPsp9Nb2vuiFr3v1z4/O1+8S8FLD5V
+=CmZb
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rajk
+
+==================================================================
